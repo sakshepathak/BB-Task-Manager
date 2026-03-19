@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-geist-sans), 'Inter', system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), 'Roboto Mono', monospace;
+  
+  --color-brand-bg: #ffffff;
+  --color-brand-text: #0a0a0b;
+  --color-brand-muted: #6b7280;
+  --color-brand-border: #efefee;
+}
+
+html, body {
+  background-color: #ffffff !important;
+  color: #0a0a0b !important;
+  font-family: var(--font-sans);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: rgba(99, 102, 241, 0.15);
+  color: #4f46e5;
+}
+
+/* Force Light Mode Aesthetics */
+* {
+  border-color: #efefee;
+}
+
+/* SaaS Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e2e2e2;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d4d4d4;
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight font-black;
+  }
+}
