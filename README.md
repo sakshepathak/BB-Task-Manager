@@ -4,7 +4,7 @@
 
 Built with a modern full-stack architecture (**Next.js 15**, **Express 5**, and **Prisma**), Bread & Butter is more than just a to-do list—it's a workspace designed to help you focus on what truly matters.
 
-##  Architecture & Workflow
+## 🏗️ Architecture & Workflow
 
 ```mermaid
 graph TD
