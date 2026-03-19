@@ -5,6 +5,8 @@
 Built with a modern full-stack architecture (**Next.js 15**, **Express 5**, and **Prisma**), Bread & Butter is more than just a to-do list—it's a workspace designed to help you focus on what truly matters.
 
 ---
+## Demo Video
+Watch the demo video on loom https://www.loom.com/share/49ae6ea0762e402591be1d7e8820e029
 
 ## 📸 Visual Previews
 
