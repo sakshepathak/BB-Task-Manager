@@ -4,7 +4,7 @@
 
 Built with a modern full-stack architecture (**Next.js 15**, **Express 5**, and **Prisma**), Bread & Butter is more than just a to-do list—it's a workspace designed to help you focus on what truly matters.
 
-## 🏗️ Architecture & Workflow
+##  Architecture & Workflow
 
 ```mermaid
 graph TD
@@ -24,7 +24,7 @@ graph TD
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### **1. Unified Workspace Experience**
 *   **Dual-Column Kanban Flow**: Manage your active workflow with a clean split between "Pending" and "In Progress" tasks.
@@ -56,7 +56,7 @@ graph TD
 
 ---
 
-## 🚧 Engineering Challenges & Architectural Decisions
+##  Engineering Challenges & Architectural Decisions
 
 ### **1. The Infinite Redirect Loop (Next.js Middleware)**
 *   **The Challenge**: Configuring middleware to handle both authenticated users and "Guest Mode" users caused a conflict where the app would infinitely redirect between `/auth` and `/dashboard`.
@@ -72,7 +72,7 @@ graph TD
 
 ---
 
-## 🔍 Debugging & Troubleshooting
+##  Debugging & Troubleshooting
 
 ### **Frequent Fixes Checklist**
 
@@ -93,7 +93,7 @@ npx prisma migrate dev
 
 ---
 
-## 🌱 Future Growth & Improvements
+##  Future Growth & Improvements
 
 We aren't stopping at simple CRUD. Here’s what’s on the horizon for Bread & Butter:
 
