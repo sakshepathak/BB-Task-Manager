@@ -17,7 +17,7 @@ Watch the demo video on loom https://www.loom.com/share/49ae6ea0762e402591be1d7e
 ![Dashboard Preview](./docs/assets/dashboard.png)
 
 ### **Search Bar**
-![Search Bar Preview](./docs/assets/search.png)
+![Search Bar Preview](./docs/assets/search.png.png)
 
 ---
 
