@@ -8,20 +8,26 @@ Built with a modern full-stack architecture (**Next.js 15**, **Express 5**, and 
 ## Demo Video
 Watch the demo video on loom https://www.loom.com/share/49ae6ea0762e402591be1d7e8820e029
 
-## 📸 Visual Previews
+##  Visual Previews
 
 ### **Login Interface**
-![Login Preview](./docs/assets/login.png)
+<p align="center">
+  <img src="./docs/assets/login.png" width="400"/>
+</p>
 
 ### **Dashboard & Task Board**
-![Dashboard Preview](./docs/assets/dashboard.png)
+<p align="center">
+  <img src="./docs/assets/dashboard.png" width="500"/>
+</p>
 
 ### **Search Bar**
-![Search Bar Preview](./docs/assets/search.png.png)
+<p align="center">
+  <img src="./docs/assets/search.png.png" width="400"/>
+</p>
 
 ---
 
-## 🏗️ Architecture & Workflow
+##  Architecture & Workflow
 
 ```mermaid
 graph TD
@@ -122,7 +128,7 @@ We aren't stopping at simple CRUD. Here’s what’s on the horizon for Bread & 
 
 ---
 
-## 🔧 Installation & Quick Start
+##  Installation & Quick Start
 
 1.  **Clone the Repo**: `git clone https://github.com/sakshepathak/BB-Task-Manager.git`
 2.  **Backend Setup**:
@@ -142,5 +148,5 @@ We aren't stopping at simple CRUD. Here’s what’s on the horizon for Bread & 
 
 ---
 
-## 📄 License
+##  License
 Licensed under the [MIT License](./LICENSE) - Created with ❤️ by **Sakshi Pathak**.
